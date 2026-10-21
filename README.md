@@ -173,7 +173,7 @@
 <img src="images/1.jpg" alt="Скриншот 1">
 <img src="images/2.jpg" alt="Скриншот 2">
 <img src="images/3.jpg" alt="Скриншот 3">
-<img src="images/4.jpg" alt="Скриншот 4">
+<img src="images/4a.jpg" alt="Скриншот 4">
 <img src="images/5.jpg" alt="Скриншот 5">
 </details>
 
