@@ -1,6 +1,6 @@
 <div align="center">
   <h1>FPV MENU</h1>
-  <p><strong>[t.me/fpvmenu](t.me/fpvmenu) | by sanitar4ick</strong></p>
+  <p><strong>[**t.me/fpvmenu**](https://t.me/fpvmenu) | by sanitar4ick</strong></p>
   <p>FPV Kamikaze Drone · v.1.0 (release)</p>
   <p>WEAPON | ESP | MOVEMENT | TELEPORT</p>
 </div>
