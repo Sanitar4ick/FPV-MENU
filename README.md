@@ -1,6 +1,6 @@
 <div align="center">
   <h1>FPV MENU+</h1>
-  <p><a href="https://t.me/fpvmenu">Telegram</a> · by sanitar4ick</p>
+  <p>by sanitar4ick</p>
   <p>FPV Kamikaze Drone · 2.0</p>
   <p>ПРОФИЛИ · ИГРОВОЕ МЕНЮ · ПРОВЕРКА ФАЙЛОВ · VPN</p>
 </div>
