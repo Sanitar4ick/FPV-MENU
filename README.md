@@ -2,7 +2,7 @@
   <h1>FPV MENU+</h1>
   <p>by sanitar4ick</p>
   <p>FPV Kamikaze Drone · 2.0</p>
-  <p>ПРОФИЛИ · ИГРОВОЕ МЕНЮ · ПРОВЕРКА ФАЙЛОВ · VPN</p>
+  <p>АНТИБАН · ИГРОВОЕ МЕНЮ · НОВЫЕ ЧИТЫ · VPN</p>
 </div>
 
 ---
